@@ -25,9 +25,6 @@ dependencies:
     sdk: flutter
   qr_flutter: ^3.2.0
   qr_code_scanner: ^0.3.5
-  camera: ^0.5.4+2
-  path_provider:
-  path:
 
 
 
